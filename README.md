@@ -1,5 +1,5 @@
 <h2> Hello World! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/zhenghaodong/picture/raw/master/51.gif" width="500"/>
+<img align="right" alt="GIF" src="https://tva1.sinaimg.cn/large/0081Kckwly1gkziazj832g30b408c0tf.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
