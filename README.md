@@ -1,5 +1,5 @@
 <h2> Hello World! <img src="https://i.loli.net/2021/07/02/qYpWHrlVZ2caS8R.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://i.loli.net/2021/07/02/qYpWHrlVZ2caS8R.gif" width="500"/>
+<img align="right" alt="GIF" src="https://i.loli.net/2021/07/02/vbKeznLmTaNog2O.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
